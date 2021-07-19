@@ -214,6 +214,13 @@ code {
   cursor: pointer;
 }
 
+.login {
+  padding-right: 100px;
+  width: 30px;
+  text-decoration: none;
+  color: white;
+}
+
 .login-body__options {
   color: #b3b3b3;
   display: grid;
@@ -259,6 +266,7 @@ code {
 
 .login-body__sign-up {
   color: #fff;
+  padding-left: 1rem;
 }
 
 .login-body__sign-up:hover {
