@@ -1,5 +1,5 @@
 function Header() {
-    render (
+    return (
         <header className="banner">
             <div className="banner__contents">
                 <h1 className="banner__title">Ginny &amp; Georgia</h1>
